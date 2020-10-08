@@ -1,0 +1,3 @@
+<h5>UPGRADE in a few easy steps</h5>
+- Login in the backend of your <a title="MailWizz - The Email Marketing Application" href="http://codecanyon.net/item/mailwizz-email-marketing-application/6122150">MailWizz EMA</a> powered website and navigate to Extensions menu.<br />
+- Hit the upload button and select the extension archive and upload it.<br />
